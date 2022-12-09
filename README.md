@@ -1,40 +1,22 @@
-<!DOCTYPE html>
-<html lang="en-US"> 
+# Portfolio
 
+## DESCRIPTION
+This project is my portfolio, which has been build HTML and CSS. Here you will find some information about me, a few examples of my projects, links to my social media accounts and a contact form.
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> My Portofolio </title>
-    <link rel="stylesheet" href="style.css" href="./desktop/projects/project/style.css">
-</head>
+## USER STORY
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
- <body>  
- header section 
-   <header class="header">
-   <nav> 
-   list elements 
-      <ul>
-         <li> <a href="Home">Home</a></li>
-         <li> <a href="About">About</a></li>
-         <li> <a href="Work">Work</a></li>
-         <li> <a href="#contact-me">Contact Me</a></li>
-       </ul>
-   </nav> 
-</header>
+## CONTRIBUTION
+No contribution required
 
- hero section 
-   <section class="hero">
-      <div> 
-      <span class="title"> Full Stack web developer</span> 
-   <h1>Hi, I'm  <span>Amal Hirsi</span><h1>
-      <p> I am a Full Stack web developer, who is passionate about creating beautiful and user-friendly experiences</p>
+## CONTACT
+Amal Hirsi
+Email: ahirsi@hotmail.co.uk
+Github: https://github.com/AmalHirsi
 
 
 
-</section>
- 
- </body>
 
- </html>
-# Challenge-2
+
